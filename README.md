@@ -1,4 +1,4 @@
-# Applying Deep learning models to image classification (Caltech-UCSD Birds-200-2011)
+# Applying Deep Learning Models to Image Classification (Caltech-UCSD Birds-200-2011)
 ## Description:
 - This project used the Caltech-UCSD Birds-200-2011  dataset that contains 200 classes of images birds as shown in the followed figure that cantains some sample (5 classes).
 ![' Birds-200-2011'](images_cvS2/Caltech-UCSD.jpg)
